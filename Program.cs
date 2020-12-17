@@ -7,6 +7,7 @@ namespace consolenew
         static void Main(string[] args)
         {
             Console.WriteLine("Asrin banu");
+            Console.WriteLine("Priya");
         }
     }
 }
