@@ -6,7 +6,7 @@ namespace CoreConsoleApp_Ashok
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to .NET Core Console Application!");
         }
     }
 }
